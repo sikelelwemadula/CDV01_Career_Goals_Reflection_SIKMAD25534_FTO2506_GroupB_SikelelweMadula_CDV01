@@ -39,12 +39,20 @@ By completing this reflection, you will gain a clearer understanding of your car
     - I want to merge my art skills and my current chosen education path (Software Development at CodeSpace) to build my career in UI/UX design.
     - UI/UX designer requires design skills along with programing skills to build user friendly and aestheticly pleasing interfaces.
 
+    - In a work environment, it is important I maintain strong communication because there will be a lot of collaboration.
+    - Adaptability is also key because with tech evolving, I need to be willing to learn new things or improve on what I already know constantly. 
+
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - Graphic Design
+    - UI/UX Design
+    - Game Design
+    - Web Development
+    - Software Development
+
+    - UI/UX Design and Software Development peaked my interesrst more than the other options I researched.
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
