@@ -63,12 +63,22 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - Specific - 
+    I want to complete my software development cousre at CodeSpace in the allocated time and get a job. After, I want to apply and get accepted into a BSC in Computer Sciance.
+    - Measurable -
+    To continue doing well at CodeSpace so that I can ace my job interview and get work. thereafter, applying for my BSC.
+    Achievable -
+    The job is possible because CodeSpace teaches it's students how to secure work. Realistically, I won't be able to start the degree full-time so it will be done part-time. 
+    -Relevant -
+    The job will give me an industry edge over my peers. Using the skills I've learnt in Software Development to progress faster in my degree.
+    -Time:Bound -
+    In December 2025, I should have completed the Software Development course at CodeSpace. By Jan 2026, I should have applied for my BSC whic will be for a mid-year intake for part-time education so that it does not interfere with work.
+
+
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - I want to attain my BSC in Computer SCience so that I can become a UI?UX Designer. This career has an element of graphic design and software development and it will allow me to utilise my art skills.
+
 
 ### Part 4: Action Plan
 
