@@ -16,10 +16,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name: Sikelelwe MAdula**
+- **Date: 13 July 2025**
+- **Current Role/Position: A student at CodeSpace - Software Development Course**
+- **Field of Interest: Programing**
 
 ### Part 1: Self-Assessment Reflection
 
