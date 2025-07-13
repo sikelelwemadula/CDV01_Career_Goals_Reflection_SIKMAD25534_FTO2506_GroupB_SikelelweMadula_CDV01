@@ -55,9 +55,10 @@ By completing this reflection, you will gain a clearer understanding of your car
     - UI/UX Design and Software Development peaked my interesrst more than the other options I researched.
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - Creativity, whether artistic or not, is a requirement in my future field. The ability to find innovative solutions to problems, the ability to generate new ideas and problem solving are also a part of creativity. As a creative person, this makes me happy because the software development course has given me diection.
+    - I have many different interests and it was not until recently I understood that I could combine them into one career field. 
 
+    - Being a UI/UX Designer, I need to be a team player, one who is able to effectively communicate. I also need not be afraid of learning new things.
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
