@@ -29,15 +29,15 @@ By completing this reflection, you will gain a clearer understanding of your car
     - Communicaton - I am a great listener and I know how to articulate myself well.
     - Team Player
     - Problem Solver
-    = Adaptable 
+    - Adaptable 
     
     AREA'S FOR IMPROVEMENT :
     - Time management. Though I am great at planning, I need to learn to properly arrange my time for tasks, there's room for improvement.
     - Flexibility. I need to learn to be more flexible. at times I can be rigid and it cann affect my ability to be adaptable.
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - I want to merge my art skills and my current chosen education path (Software Development at CodeSpace) to build my career in UI/UX design.
+    - UI/UX designer requires design skills along with programing skills to build user friendly and aestheticly pleasing interfaces.
 
 ### Part 2: Career Exploration Insights
 
