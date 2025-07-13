@@ -84,23 +84,29 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Complete CodeSPace SOftware Drvelopment Course
+    - Secure a job (whether full or part-time)
+    - Apply for my degree
+    - Maintain a subcription at places like Scrimba so that I always have a visual aid to guide me.
+    
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Complete my degree. 
+    - Join online forums that update developers on new trends and features on apps so that I can adapt as I learn and become a more favorable job applicant.
+    
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - How I do in my course at CodeSpace will determine how hireable I am. Also, it will affect my ability to get into my desired degree at my desired time.
+    - Maintain as best as I can my current marks in the course, that will streamline the process for me.
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - Entering online competions and using the submission/outcome as a point on my CV/Portfolio.
+    - Getting my Hons and Msc in COmputer Science.
+    - Taking time to develope my digital art.
+    
 
 ### Submission
 
